@@ -29,9 +29,7 @@ footer i:hover {
 .screen img {
     opacity: 0.9;
 }
-.vyska{
-    top: 20%;
-}
+
 .form-control:focus {
     box-shadow: 1px 1px 2px rgba(89, 89, 89, 0.57);
     border-color: #373737;
@@ -47,9 +45,6 @@ footer i:hover {
 
 
 @media only screen and (max-width: 900px) {
-    .screen p {
-        font-size: 8px;
-    }
     .screen img{
         opacity: 0.2;
     }
